@@ -66,12 +66,12 @@ python -m pytest
 
 ### Dashboard
 
-![SpendSeer dashboard](screenshots\SpendSeerDashboard.png)
+![SpendSeer dashboard](screenshots/SpendSeerDashboard.png)
 
 ### Budget Tracking
 
-![SpendSeer budget tracking](screenshots\SpendSeerDashboard.png)
+![SpendSeer budget tracking](screenshots/SpendSeerDashboard.png)
 
 ### Anomaly Detection
 
-![SpendSeer anomaly detection](screenshots\SpendSeerDashboard.png)
+![SpendSeer anomaly detection](screenshots/SpendSeerDashboard.png)
