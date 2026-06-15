@@ -1,0 +1,30 @@
+# PYTHON
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# virtual envs
+venv/
+.venv/
+env/
+
+# pytest
+.pytest_cache/
+
+# streamlit
+.streamlit/secrets.toml
+
+# editor / os stuff
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# local database
+*.db
+*.sqlite
+*.sqlite3
+
+# logs
+*.log

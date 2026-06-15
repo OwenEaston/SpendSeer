@@ -1,0 +1,267 @@
+Date,Description,Amount
+2026-01-01,Salary Payment,950.0
+2026-01-02,Tesco Superstore,-18.75
+2026-01-02,Cineworld,-28.87
+2026-01-04,McDonalds,-15.71
+2026-01-05,Netflix Subscription,-10.99
+2026-01-05,Tesco Superstore,-42.07
+2026-01-05,Greggs,-17.36
+2026-01-06,Subway,-8.1
+2026-01-08,Spotify Premium,-5.99
+2026-01-09,Amazon Purchase,-57.43
+2026-01-11,Costa Coffee,-4.39
+2026-01-13,Amazon Purchase,-45.88
+2026-01-17,Trainline Ticket,-21.84
+2026-01-18,Tesco Superstore,-38.62
+2026-01-18,Amazon Purchase,-73.25
+2026-01-19,Cineworld,-27.02
+2026-01-20,Water Bill,-26.0
+2026-01-23,Shell Fuel,-11.61
+2026-01-24,Sainsburys,-24.8
+2026-01-25,Vodafone Phone Bill,-18.0
+2026-01-26,Costa Coffee,-14.38
+2026-01-27,eBay,-67.55
+2026-02-01,Salary Payment,950.0
+2026-02-05,Epic Games,-10.45
+2026-02-05,Primark,-58.42
+2026-02-05,Netflix Subscription,-10.99
+2026-02-06,Asda Groceries,-44.17
+2026-02-08,Spotify Premium,-5.99
+2026-02-08,Costa Coffee,-15.08
+2026-02-12,Aldi Store,-41.81
+2026-02-13,McDonalds,-3.99
+2026-02-13,Argos,-19.29
+2026-02-15,Sainsburys,-21.51
+2026-02-15,Shell Fuel,-13.1
+2026-02-18,Currys,-58.56
+2026-02-19,Epic Games,-17.77
+2026-02-19,McDonalds,-6.19
+2026-02-20,Water Bill,-26.0
+2026-02-21,Uber Trip,-25.54
+2026-02-23,Tesco Superstore,-39.37
+2026-02-25,Vodafone Phone Bill,-18.0
+2026-02-28,Tesco Superstore,-30.21
+2026-03-01,Salary Payment,950.0
+2026-03-04,McDonalds,-9.52
+2026-03-04,McDonalds,-15.63
+2026-03-05,Netflix Subscription,-10.99
+2026-03-05,Aldi Store,-46.68
+2026-03-08,Spotify Premium,-5.99
+2026-03-12,Vue Cinema,-14.47
+2026-03-13,Asda Groceries,-54.84
+2026-03-14,Asda Groceries,-17.54
+2026-03-15,Costa Coffee,-17.31
+2026-03-17,Sainsburys,-53.84
+2026-03-18,Bus Fare,-28.06
+2026-03-20,Currys,-41.76
+2026-03-20,Water Bill,-26.0
+2026-03-20,Primark,-19.93
+2026-03-22,Trainline Ticket,-25.45
+2026-03-24,McDonalds,-17.58
+2026-03-25,Primark,-45.06
+2026-03-25,eBay,-69.7
+2026-03-25,Vodafone Phone Bill,-18.0
+2026-03-25,Greggs,-10.62
+2026-04-01,Salary Payment,950.0
+2026-04-01,Costa Coffee,-13.62
+2026-04-02,Greggs,-4.01
+2026-04-03,McDonalds,-3.32
+2026-04-03,Lidl,-47.64
+2026-04-05,Netflix Subscription,-10.99
+2026-04-05,Lidl,-52.87
+2026-04-06,Sainsburys,-36.11
+2026-04-08,Currys,-53.48
+2026-04-08,Spotify Premium,-5.99
+2026-04-13,Bus Fare,-18.14
+2026-04-14,Uber Trip,-32.87
+2026-04-17,Shell Fuel,-8.63
+2026-04-18,Cineworld,-27.53
+2026-04-18,Greggs,-11.83
+2026-04-20,Water Bill,-26.0
+2026-04-25,Asda Groceries,-45.63
+2026-04-25,Vodafone Phone Bill,-18.0
+2026-04-25,Uber Trip,-26.39
+2026-04-28,Currys,-14.61
+2026-05-01,Payroll Payment,950.0
+2026-05-02,Primark,-34.63
+2026-05-02,Starbucks,-15.54
+2026-05-02,Amazon Large Purchase,-165.0
+2026-05-03,Greggs,-5.49
+2026-05-05,Netflix Subscription,-10.99
+2026-05-06,Bus Fare,-18.88
+2026-05-07,Shell Fuel,-9.21
+2026-05-07,Tesco Superstore,-18.88
+2026-05-08,Spotify Premium,-5.99
+2026-05-10,Cineworld,-34.16
+2026-05-11,Trainline Ticket,-12.46
+2026-05-13,Currys,-70.22
+2026-05-14,Sainsburys,-31.94
+2026-05-15,Tesco Superstore,-41.93
+2026-05-16,Subway,-6.21
+2026-05-19,Steam Purchase,-28.2
+2026-05-20,Water Bill,-26.0
+2026-05-21,Tesco Superstore,-17.42
+2026-05-24,Epic Games,-12.18
+2026-05-25,Vodafone Phone Bill,-18.0
+2026-05-26,Lidl,-47.3
+2026-05-26,Argos,-28.54
+2026-05-28,Trainline Ticket,-18.29
+2026-06-01,Subway,-12.32
+2026-06-01,Payroll Payment,950.0
+2026-06-02,Asda Groceries,-18.2
+2026-06-02,Asda Groceries,-18.28
+2026-06-03,Primark,-34.02
+2026-06-04,Cineworld,-15.14
+2026-06-05,Netflix Subscription,-10.99
+2026-06-06,Tesco Superstore,-38.8
+2026-06-06,Argos,-64.19
+2026-06-07,Bus Fare,-12.16
+2026-06-07,Starbucks,-6.98
+2026-06-08,Spotify Premium,-5.99
+2026-06-10,Shell Fuel,-14.49
+2026-06-13,Uber Trip,-25.15
+2026-06-17,Steam Purchase,-26.03
+2026-06-18,Vue Cinema,-33.16
+2026-06-19,Costa Coffee,-4.1
+2026-06-19,Bus Fare,-33.04
+2026-06-19,Aldi Store,-38.16
+2026-06-20,Water Bill,-26.0
+2026-06-22,Aldi Store,-31.15
+2026-06-23,Currys,-49.76
+2026-06-25,Vodafone Phone Bill,-18.0
+2026-07-01,Salary Payment,950.0
+2026-07-03,Greggs,-11.18
+2026-07-05,Netflix Subscription,-10.99
+2026-07-05,Subway,-4.91
+2026-07-07,Primark,-53.35
+2026-07-08,Cineworld,-34.36
+2026-07-08,Spotify Premium,-5.99
+2026-07-09,Tesco Superstore,-18.69
+2026-07-09,Uber Trip,-27.24
+2026-07-09,Sainsburys,-39.19
+2026-07-12,Amazon Purchase,-68.43
+2026-07-12,eBay,-67.47
+2026-07-14,Sainsburys,-16.76
+2026-07-18,Shell Fuel,-21.83
+2026-07-20,Water Bill,-26.0
+2026-07-20,Cineworld,-33.0
+2026-07-21,Sainsburys,-35.22
+2026-07-23,Sainsburys,-23.14
+2026-07-25,Uber Trip,-24.11
+2026-07-25,Vodafone Phone Bill,-18.0
+2026-07-27,McDonalds,-11.74
+2026-08-01,Aldi Store,-44.46
+2026-08-01,Cineworld,-17.83
+2026-08-01,Salary Payment,950.0
+2026-08-02,Lidl,-23.9
+2026-08-03,Vue Cinema,-24.83
+2026-08-04,Argos,-68.47
+2026-08-05,Netflix Subscription,-10.99
+2026-08-07,Currys,-12.89
+2026-08-07,Shell Fuel,-14.85
+2026-08-08,Spotify Premium,-5.99
+2026-08-09,Bus Fare,-24.24
+2026-08-09,Costa Coffee,-4.63
+2026-08-09,Greggs,-11.71
+2026-08-11,Lidl,-47.09
+2026-08-13,Bus Fare,-33.18
+2026-08-14,McDonalds,-13.93
+2026-08-14,eBay,-73.98
+2026-08-20,Water Bill,-26.0
+2026-08-25,Vodafone Phone Bill,-18.0
+2026-08-26,Tesco Superstore,-30.3
+2026-08-27,Aldi Store,-23.92
+2026-08-27,Lidl,-28.99
+2026-08-28,Aldi Store,-25.67
+2026-08-28,Trainline Ticket,-34.01
+2026-09-01,Salary Payment,950.0
+2026-09-05,Steam Purchase,-32.1
+2026-09-05,Netflix Subscription,-10.99
+2026-09-06,Asda Groceries,-37.76
+2026-09-08,Spotify Premium,-5.99
+2026-09-08,Argos,-49.73
+2026-09-08,Greggs,-5.21
+2026-09-10,Uber Trip,-17.9
+2026-09-11,Lidl,-42.89
+2026-09-13,Asda Groceries,-48.35
+2026-09-13,Epic Games,-18.79
+2026-09-15,Uber Trip,-20.34
+2026-09-17,Sainsburys,-41.68
+2026-09-18,Aldi Store,-22.67
+2026-09-19,Bus Fare,-18.95
+2026-09-19,Cineworld,-27.4
+2026-09-20,Water Bill,-26.0
+2026-09-22,Lidl,-42.09
+2026-09-22,Costa Coffee,-7.26
+2026-09-22,Starbucks,-8.03
+2026-09-25,Amazon Large Purchase,-165.0
+2026-09-25,Vodafone Phone Bill,-18.0
+2026-09-25,Amazon Purchase,-39.6
+2026-09-27,Greggs,-13.09
+2026-10-01,Payroll Payment,950.0
+2026-10-04,Lidl,-20.33
+2026-10-05,Netflix Subscription,-10.99
+2026-10-06,Asda Groceries,-33.58
+2026-10-07,Epic Games,-18.52
+2026-10-08,Argos,-55.11
+2026-10-08,Spotify Premium,-5.99
+2026-10-09,Subway,-4.16
+2026-10-10,Greggs,-7.08
+2026-10-11,Epic Games,-19.23
+2026-10-15,Asda Groceries,-54.52
+2026-10-17,Subway,-12.4
+2026-10-18,Shell Fuel,-31.92
+2026-10-18,Aldi Store,-51.7
+2026-10-18,Amazon Purchase,-18.99
+2026-10-20,Water Bill,-26.0
+2026-10-20,Sainsburys,-53.0
+2026-10-20,Shell Fuel,-29.92
+2026-10-23,Primark,-14.17
+2026-10-24,Shell Fuel,-18.5
+2026-10-25,Vodafone Phone Bill,-18.0
+2026-10-27,McDonalds,-14.49
+2026-11-01,Salary Payment,950.0
+2026-11-02,Currys,-24.57
+2026-11-02,McDonalds,-8.69
+2026-11-05,Netflix Subscription,-10.99
+2026-11-05,Trainline Ticket,-32.21
+2026-11-07,Amazon Large Purchase,-165.0
+2026-11-07,Subway,-7.9
+2026-11-08,Lidl,-23.78
+2026-11-08,Spotify Premium,-5.99
+2026-11-10,Lidl,-49.14
+2026-11-11,Lidl,-43.97
+2026-11-14,Uber Trip,-31.01
+2026-11-14,Lidl,-16.16
+2026-11-16,Tesco Superstore,-52.71
+2026-11-16,Amazon Purchase,-58.69
+2026-11-19,Trainline Ticket,-7.52
+2026-11-20,Water Bill,-26.0
+2026-11-24,Asda Groceries,-46.99
+2026-11-25,Subway,-7.17
+2026-11-25,Vodafone Phone Bill,-18.0
+2026-11-25,Steam Purchase,-28.36
+2026-11-27,Lidl,-36.53
+2026-11-27,Subway,-6.78
+2026-12-01,Salary Payment,950.0
+2026-12-03,Starbucks,-13.36
+2026-12-04,Asda Groceries,-52.91
+2026-12-05,Netflix Subscription,-10.99
+2026-12-06,Asda Groceries,-39.29
+2026-12-08,Aldi Store,-33.94
+2026-12-08,Spotify Premium,-5.99
+2026-12-10,Trainline Ticket,-22.36
+2026-12-10,Shell Fuel,-16.9
+2026-12-14,Currys,-14.48
+2026-12-14,Argos,-16.86
+2026-12-14,Cineworld,-27.81
+2026-12-15,Sainsburys,-45.68
+2026-12-20,Costa Coffee,-14.94
+2026-12-20,Water Bill,-26.0
+2026-12-21,Epic Games,-27.1
+2026-12-21,Greggs,-4.53
+2026-12-21,Currys,-10.82
+2026-12-24,Tesco Superstore,-46.11
+2026-12-25,Vodafone Phone Bill,-18.0
+2026-12-25,McDonalds,-15.75
+2026-12-26,Amazon Purchase,-32.57
