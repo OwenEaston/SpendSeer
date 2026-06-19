@@ -1,7 +1,7 @@
 # SpendSeer
 
 SpendSeer is a personal finance tool built with Python and Streamlit to analyse transactions and spending. The app allows users to upload CSV files, view bank transaction data, automatically categorise spending, generate monthly summaries, track budgets, detect recurring payments, flag unusual transactions, and export reports.
-![SpendSeer GIF Overview](screenshots/SpendSeerGIFOverview.gif)
+![SpendSeer GIF Overview](screenshots/speedseergif.gif)
 
 ## Features
 
