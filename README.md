@@ -70,8 +70,8 @@ python -m pytest
 
 ### Budget Tracking
 
-![SpendSeer budget tracking](screenshots/SpendSeerDashboard.png)
+![SpendSeer budget tracking](screenshots/SpendSeerBudgets.png)
 
 ### Anomaly Detection
 
-![SpendSeer anomaly detection](screenshots/SpendSeerDashboard.png)
+![SpendSeer anomaly detection](screenshots/SpendSeerAnomaly.png)
